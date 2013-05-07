@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\SEgueSombra.cs">
+    <Files>
+      <File FileName="Assets\SwapCams.cs" Line="24" Column="4" />
+      <File FileName="Assets\Shoot.cs" Line="10" Column="18" />
+      <File FileName="Assets\FPV.cs" Line="64" Column="63" />
+      <File FileName="Assets\kyte.cs" Line="52" Column="52" />
+      <File FileName="Assets\Vento.cs" Line="27" Column="17" />
+      <File FileName="Assets\FollowSurfer.cs" Line="31" Column="40" />
+      <File FileName="Assets\SEgueSombra.cs" Line="19" Column="66" />
+      <File FileName="Assets\DirSeta.cs" Line="23" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
